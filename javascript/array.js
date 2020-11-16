@@ -50,4 +50,7 @@ class Array {
     delete this.data[this.length - 1];
     this.length--;
   }
+  helloworld() {
+    console.log('hello git!');
+  }
 }
